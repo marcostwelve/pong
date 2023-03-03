@@ -20,8 +20,9 @@ Projeto desenvolvido no treinamento de lógica de programação da Alura. <br/>
 <br>
   <p> Imagem demostração do jogo </p>
   
-  ![img01](https://user-images.githubusercontent.com/94411600/222610624-f6944325-2839-4398-b8e9-4c0dcb7a1061.png)
-  
+  ![img3](https://user-images.githubusercontent.com/94411600/222611668-5987e165-f77f-4b4f-aeed-686d1e1781f6.gif)
+  ![img3](https://user-images.githubusercontent.com/94411600/222611668-5987e165-f77f-4b4f-aeed-686d1e1781f6.gif)
+  ![img3](https://user-images.githubusercontent.com/94411600/222611668-5987e165-f77f-4b4f-aeed-686d1e1781f6.gif)
 
 ## 🚀 Tecnologias
 
