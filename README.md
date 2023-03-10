@@ -1,4 +1,4 @@
-# pong
+
 
 <h1 align="center"> Pong </h1>
 
@@ -20,9 +20,10 @@ Projeto desenvolvido no treinamento de lógica de programação da Alura. <br/>
 <br>
   <p> Imagem demostração do jogo </p>
   
-  ![img3](https://user-images.githubusercontent.com/94411600/222611668-5987e165-f77f-4b4f-aeed-686d1e1781f6.gif)
-  ![img3](https://user-images.githubusercontent.com/94411600/222611668-5987e165-f77f-4b4f-aeed-686d1e1781f6.gif)
-  ![img3](https://user-images.githubusercontent.com/94411600/222611668-5987e165-f77f-4b4f-aeed-686d1e1781f6.gif)
+  ![gif](https://user-images.githubusercontent.com/94411600/224193742-ff68968b-a730-491a-bc73-eac3e938b0fa.gif)
+  ![gif](https://user-images.githubusercontent.com/94411600/224193752-e16f35f3-fbf5-4a05-9944-eb9e3baf1cbc.gif)
+
+  
 
 ## 🚀 Tecnologias
 
@@ -32,6 +33,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript p5
 - Git e Github
 
+## Como jogar
+```
+O jogador da raquete esquerda: Utilize as setas do teclado para controlar a raquete
+O jogador da raquete direita: Utilize as teclas W e S para controlar a raquete
+```
 ## 💻 Projeto
 
 O Pong é um jogo retrô muito divertido.
